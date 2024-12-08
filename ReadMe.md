@@ -37,5 +37,3 @@ CIPipeline_2/
 ├── README.md
 ├── Makefile
 └── migrations/
-
-CIPipeline_2/ ├── flask_app/ │ ├── app/ │ │ ├── init.py │ │ ├── routes.py │ │ ├── models.py │ │ ├── static/ │ │ │ └── (your static files like CSS, JS, images) │ │ └── templates/ │ │ └── (your HTML templates) │ ├── tests/ │ │ ├── test_routes.py │ │ └── test_models.py │ ├── Dockerfile │ ├── requirements.txt │ ├── config.py │ └── logging_config.py ├── .github/ │ └── workflows/ │ ├── ci-cd.yml │ └── test.yml ├── .env ├── README.md ├── Makefile └── migrations/
