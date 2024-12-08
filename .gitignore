@@ -1,0 +1,35 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Docker files
+**/.dockerignore
+
+# Dependency directories
+.env/
+*.env
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+
+
+# Python wheel and egg files
+*.egg
+*.egg-info
+dist/
+build/
